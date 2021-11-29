@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RajAmbore
 - 👀 I’m interested in React, Angular and Vue js
-- 🌱 I’m currently train student
+- 🌱 I’m passionate about all these framwork.
 - 💞️ I’m looking to collaborate on React
 - 📫 How to reach me ...
 
